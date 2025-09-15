@@ -13,17 +13,18 @@
 
 <h2>✨ Funcionalidades</h2>
 <ul>
-  <li>Clone de uma versão do Spotify</li>
+  <li>Vender cursos</li>
+  <li>Gerar Certificados</li>
 </ul>
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Carousel utilizado</li>
-  <li>:hover utilizado</li>
-  <li>background-attachment: fixed utilizado</li>
+  <li>Flex-box utilizado</li>
+  <li>HTMl semântico de bem estruturado</li>
+  <li>video imcorporado com iframe</li>
   <li>responsivo para todas as telas</li>
-  <li>estrutura do html semântica</li>
-  <li>transform: rotate(30deg) para rotacionar imagem</li>
-  <li>footer bem estruturado</li>
-  <li>flex box utilizado</li>
+  <li>reset CSS utilizado</li>
+  <li>color: inherit; transition: .5s; box-shadow: 2px 2px 2px #CCC; flex-grow: 10;</li>
+  <li>pseudo elemento :before utilizado, content: '';</li>
+
 </ul>
