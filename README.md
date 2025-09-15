@@ -26,5 +26,5 @@
   <li>reset CSS utilizado</li>
   <li>color: inherit; transition: .5s; box-shadow: 2px 2px 2px #CCC; flex-grow: 10;</li>
   <li>pseudo elemento :before utilizado, content: '';</li>
-
+  <li>footer bem estruturado</li>
 </ul>
